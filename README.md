@@ -6,8 +6,8 @@
 - ⚡ Fun fact **I surf but I don't know how to swim.**
 
 <h3>Examples of Work</h3>
-<img src="https://github.com/j-t-thomas/j-t-thomas/blob/main/WavesMP4.gif?raw=true" width="400">
 <img src="https://github.com/j-t-thomas/j-t-thomas/blob/main/WordNerd.gif?raw=true" width="400">
+<img src="https://github.com/j-t-thomas/j-t-thomas/blob/main/WavesMP4.gif?raw=true" width="400">
 
 <div> <a href="https://twitter.com/codedbyjane" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Jane Thomas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
