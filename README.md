@@ -1,12 +1,13 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQEYFxAsPFU6Pw/profile-displaybackgroundimage-shrink_350_1400/0/1689347412781?e=1695254400&v=beta&t=8_qCL4nKAlfDLlbHQObnoVscso0PND0Tp9JiQ0H3gOQ" width="100%" />
 <h1 align="center">Hi 👋🏽, I'm Jane.</h1>
-<h3 align="center">I am a software engineer based in Oakland, CA.</h3>
+<h3 align="center">I am a software engineer based in Oakland, CA. I am currently learning fullstack JavaScript publicly on Twitter and Threads. </h3>
 
 - 📫 How to reach me **janethomas1296@gmail.com**
 - ⚡ Fun fact **I surf but I don't know how to swim.**
 
 <h3>Examples of Work</h3>
 <img src="https://github.com/j-t-thomas/j-t-thomas/blob/main/WavesMP4.gif?raw=true" width="400">
+<img src="https://github.com/j-t-thomas/j-t-thomas/blob/main/WordNerd.gif?raw=true" width="400">
 
 <div> <a href="https://twitter.com/codedbyjane" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Jane Thomas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
