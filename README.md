@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏽, I'm Jane.</h1>
 <h3 align="center">I am a freelance software engineer based in Oakland, CA. I am currently learning fullstack web development publicly on Twitter and Threads with the 100Devs community. </h3>
 
-- 👩🏽‍💻 What I'm working on: A planner app
+- 👩🏽‍💻 What I'm working on: **A planner app**
 - 📫 How to reach me: **janethomas1296@gmail.com**
 - ⚡ Fun fact: **I surf but I don't know how to swim.**
 
