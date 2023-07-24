@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋🏽, I'm Jane.</h1>
 <h3 align="center">I am a freelance software engineer based in Oakland, CA. I am currently learning fullstack web development publicly on Twitter and Threads with the 100Devs community. </h3>
 
-- 📫 How to reach me **janethomas1296@gmail.com**
-- ⚡ Fun fact **I surf but I don't know how to swim.**
+- 👩🏽‍💻 What I'm working on: A planner app
+- 📫 How to reach me: **janethomas1296@gmail.com**
+- ⚡ Fun fact: **I surf but I don't know how to swim.**
 
 <h3>Examples of Work</h3>
 <a href="https://j-t-thomas.github.io/Word-Nerd/"><img src="https://github.com/j-t-thomas/j-t-thomas/blob/main/WordNerd.gif?raw=true" width="400"></a>
