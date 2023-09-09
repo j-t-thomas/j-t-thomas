@@ -1,9 +1,9 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQEYFxAsPFU6Pw/profile-displaybackgroundimage-shrink_350_1400/0/1689347412781?e=1695254400&v=beta&t=8_qCL4nKAlfDLlbHQObnoVscso0PND0Tp9JiQ0H3gOQ" width="100%" />
 <h1 align="center">Hi 👋🏽, I'm Jane.</h1>
-<h3 align="center">I am a freelance software engineer based in Oakland, CA. I am currently learning fullstack web development publicly on Twitter and Threads with the 100Devs community. </h3>
+<h3 align="center">I am a freelance software engineer based in Oakland, CA. I am currently learning fullstack web development with the 100Devs community. </h3>
 
 - 📫 How to reach me: **janethomas1296@gmail.com**
-- 👩🏽‍💻 What I'm working on: **A planner app**
+- 👩🏽‍💻 What I'm working on: **Amharic-English Translation API**
 - ⚡ Fun fact: **I surf but I don't know how to swim.**
 
 <h3>Examples of Work</h3>
