@@ -3,6 +3,6 @@
 
 - 📫 How to reach me: **janethomas1296@gmail.com**
 - 👩🏽‍💻 What I'm working on: **Treehouse Fullstack Javascript Tech Degree**
-- ⚡ Fun fact: **I surf but I don't know how to swim.**
+- ⚡ Fun facts: **I surf but I don't know how to swim, I am an artist, and I love to cook.**
 
 
