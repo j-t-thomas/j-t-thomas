@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Jane.</h1>
-<h3 align="center">Data Science student at Arizona State University | Former Software Engineer Apprentice at Intuit | Aspiring Information Technology Associate | Passionate about leveraging data analytics and technology to enhance security and drive decision-making.</h3>
+<h3 align="center">Aspiring Software Engineer | Former Software Engineer Apprentice at Intuit </h3>
 
 - 📫 How to reach me: **janethomas1296@gmail.com**
 - 👩🏽‍💻 Coding Bootcamp: **Treehouse Fullstack Javascript Tech Degree**
