@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **janetrenelle@gmail.com**
-
 - ⚡ Fun fact **I can surf but I don't know how to swim. I play piano, guitar, and bass guitar.**
 
 <h3 align="left">Connect with me:</h3>
